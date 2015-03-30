@@ -1,0 +1,126 @@
+/*Main Stylesheet*/
+
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+
+.page-header{
+ background-color: black;
+    color:#F2F22C;
+    text-align: left;
+    font-size: 56px;
+    margin: 10px 10px;
+}
+.container{
+background-color:beige;
+    height: auto;
+    padding: 10px 10px;
+}
+.btn-primary {
+  color: #fff;
+  background-color: black;
+  border-color: #2e6da4;
+}
+.simple{
+	background-image: url('../assets/big_img.jpg');
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1200px 262px;
+    background-position: center; 
+	color:#fff;
+	width: 100%;
+	height: 405px;
+    margin: 10px 0 10px 0;
+}
+ .blog{
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1200px 262px;
+    background-position: center; 
+	color:black;
+	width: 100%;
+     height: 400px;
+    margin: 10px 0 10px 0;
+}
+.versatile{
+background-color: white;
+    height: auto;
+    margin: 10px 10px;
+}
+.sendicate{
+background-color: white;
+    padding: 50px;
+    margin: 50px;
+}
+.ad{
+background-color: #00FF00;
+    height: 200px;
+    padding: 50px;
+    font-size: 36px;
+    font-weight: 500;
+    color: white;
+    
+}
+.ad p{
+margin: 5px 100px 50px 400px;
+}
+.post{
+background-color: white;
+ margin: 50px 0;  
+    
+}
+.post p{
+font-weight: 100;
+font-size: 24px;
+    
+}
+.footer-section{
+    background-color: black;
+    height: 300px;
+}
+.footer-section p{
+    font-size: 16px;
+    color: color:#F2F22C;
+}
+#home div{
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+} 
+
+#home div:first-child{
+	padding: 80px 0 20px 0;
+}
+
+#home div:last-child{
+	padding-top: 150px;
+}
+
+#home div span{
+	font-size: 60px;
+	font-weight: bold;
+}
+
+#about{
+	width: 34%;
+	margin: 50px 30% 50px 30%;
+	text-align: center;
+}
+
+
+footer{
+	width: 100%;
+	text-align: center;
+	padding: 30px 0 60px 0;
+
+}
+
+footer ul li{
+	display: inline;
+	margin: 20px;
+}
